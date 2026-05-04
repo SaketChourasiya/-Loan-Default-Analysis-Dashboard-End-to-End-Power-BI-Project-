@@ -102,6 +102,12 @@ Built interactive dashboards covering:
 
 <img width="1172" height="651" alt="image" src="https://github.com/user-attachments/assets/6f10ba87-0d1d-453e-b86e-8f9f4f0e35ca" />
 
+<img width="1110" height="626" alt="image" src="https://github.com/user-attachments/assets/986ea614-c85b-4a51-a5a2-221bc57be270" />
+
+
+<img width="1131" height="637" alt="image" src="https://github.com/user-attachments/assets/eff22203-f020-4622-91ac-08c974aa50a6" />
+
+
 
 
 
@@ -121,34 +127,28 @@ Used for:
 - Median & average analysis  
 - Segmentation logic  
 
-📸 *Add DAX screenshots here*
+<img width="527" height="866" alt="image" src="https://github.com/user-attachments/assets/55775201-f9b4-49c9-a37d-a7070641af95" />
 
 ---
 
-### 🔹 7. Data Validation
-- Validated calculated measures  
-- Verified visual outputs  
-- Ensured consistency across dashboard  
+### 🔹 7. Report Publish
+- Published report to Power BI Service  
+- Managed access for stakeholders  
 
-📸 *Add screenshots here*
+<img width="1657" height="1078" alt="image" src="https://github.com/user-attachments/assets/d45b9f32-2927-4ccb-9a55-c0a550e5891c" />
 
 ---
 
 ### 🔹 8. Deployment & Data Refresh
 - Configured Dataflow refresh schedule  
-- Implemented Incremental Refresh  
-- Published report to Power BI Service  
+- Implemented Incremental Refresh 
 - Scheduled report refresh  
 
-📸 *Add screenshots here*
+<img width="1916" height="980" alt="image" src="https://github.com/user-attachments/assets/a4867676-7e3c-4501-900b-f5170b8555bc" />
 
----
+<img width="1906" height="976" alt="image" src="https://github.com/user-attachments/assets/c844dc4b-dfc0-41ce-b843-7a6f12387ed1" />
 
-### 🔹 9. Report Sharing
-- Shared report via Power BI Service  
-- Managed access for stakeholders  
-
-📸 *Add screenshots here*
+<img width="1186" height="972" alt="image" src="https://github.com/user-attachments/assets/b4594d23-fc0f-4371-abea-815af8d18c3a" />
 
 ---
 
