@@ -150,6 +150,9 @@ Used for:
 
 <img width="1186" height="972" alt="image" src="https://github.com/user-attachments/assets/b4594d23-fc0f-4371-abea-815af8d18c3a" />
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/6836aea0-a6fa-4e6f-b62d-b46da180b879" />
+
+
 ---
 
 ## 📊 Key Insights
